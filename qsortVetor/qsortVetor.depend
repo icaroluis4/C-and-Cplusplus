@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506520685 source:c:\users\luis\documents\cc\qsortvetor\qsort.c
+	<stdio.h>
+	<stdlib.h>
+

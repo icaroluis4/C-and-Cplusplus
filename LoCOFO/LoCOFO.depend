@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523026228 source:c:\users\luis\documents\cc\locofo\cofo.c
+	<stdlib.h>
+	"Cofo.h"
+
+1523025021 c:\users\luis\documents\cc\locofo\cofo.h
+
+1523026040 source:c:\users\luis\documents\cc\locofo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Cofo.h"
+

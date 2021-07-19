@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1507296107 source:c:\users\luis\documents\cc\cofog\cofog.c
+	<stdlib.h>
+	<stdio.h>
+	"cofog.h"
+
+1507296107 c:\users\luis\documents\cc\cofog\cofog.h
+
+1507295584 source:c:\users\luis\documents\cc\cofog\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cofog.c"
+
+1507295649 c:\users\luis\documents\cc\cofog\cofog.c
+	<stdlib.h>
+	<stdio.h>
+	"cofog.h"
+

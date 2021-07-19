@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1507729206 source:c:\users\luis\documents\cc\pune\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pune.c"
+
+1507729450 c:\users\luis\documents\cc\pune\pune.c
+	<stdio.h>
+	<stdlib.h>
+	"pune.h"
+
+1507729667 c:\users\luis\documents\cc\pune\pune.h
+	<stdlib.h>
+
+1507729450 source:c:\users\luis\documents\cc\pune\pune.c
+	<stdio.h>
+	<stdlib.h>
+	"pune.h"
+
